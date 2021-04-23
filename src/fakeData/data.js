@@ -1,0 +1,5 @@
+var data =
+    [{"key":"B00OERTZWM","category":"data","name":"Monetization Strategy","instructor":"Jhankar Mahbub","seats":30,"img":" ","url":" ","features":"Monetization strategy secrets","price":550,"shipping":3.99}, {"key":"B00OSTKQAZ","category":"data","name":"Data Product Management","instructor":"Ikbal Hossain","seats":30,"img":" ","url":" ","features":"Learn How to Manage Your Data","price":350,"shipping":3.99},{"key":"B00OYVBNWM","category":"data","name":"Business Analytics","instructor":"Shajib Hossain","seats":20,"img":" ","url":" ","features":"Details in Business Analysis","price":750,"shipping":3.99},{"key":"B00RFAMTPM","category":"data","name":"Big Data":"Jhankar Mahbub","seats":10,"img":" ","url":" ","features":"Big Data Management Course","price":850,"shipping":3.99}];
+
+
+export default data;
