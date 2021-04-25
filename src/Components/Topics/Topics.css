@@ -1,0 +1,26 @@
+.topic-container{
+    display: flex;
+    border-bottom: 1px solid rgb(102, 53, 53);
+    margin-bottom: 5px;
+    margin-right: 10px;
+    padding-bottom: 10px;
+}
+.topic-container img{
+    width: 190px;
+    height: 250px;
+    padding: 10px;
+}
+.topic-name{
+    color:maroon;
+    font-weight: 400;
+}
+.main-button{
+    background-color: rgb(102, 25, 25);
+    width: 150px;
+    height: 30px;
+    border: 1px  solid black ;
+    border-radius: 5px;
+    cursor: pointer;
+    color: blanchedalmond;
+    padding: 5px;
+}

@@ -1,6 +1,6 @@
-import androids from './programming';
-import cameras from './data';
-import laptops from './ai';
+import programming from './programming';
+import data from './data';
+import ai from './ai';
 
 const fakeData = [...programming, ...data, ...ai];
 

@@ -1,0 +1,17 @@
+.confirm-button{
+    background-color: green;
+    width: 150px;
+    height: 30px;
+    border: 1px  solid black ;
+    border-radius: 5px;
+    cursor: pointer;
+    color: blanchedalmond;
+    padding: 5px;
+}
+.summary{
+    color: green;
+}
+.grand-total{
+    color: maroon;
+    font-size: 30px;
+}
